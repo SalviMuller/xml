@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<questions>
+	<question>
+		<type>text</type>
+		<title>1 Una cuerda afinada en LA, si se pisa por la mitad, ¿qué suena?</title>
+		<answer>La</answer>
+	</question>
+	<question>
+		<type>text</type>
+		<title>3 Los cuatro estados de la materia son: sólido, líquido, gaseoso y ____</title>
+		<answer>plasma</answer>
+	</question>
+	<question>
+		<type>select</type>
+		<title>2 ¿qué es el sonido?</title>
+		<option>onda longitudinal de presión</option>
+		<option>son rayos</option> 
+		<option>Son chispas</option>
+		<option>Magia Negra</option>
+		<answer>1</answer> 
+	</question>
+	<question>
+		<type>select</type>
+		<title>4¿es precisa la frase “Tú eres el imán y yo soy el metal”?</title>
+		<option>No. Atrae a unos pocos metales</option>
+		<option>No, un imán sólo atrae a otro imán</option> 
+		<option>perfectamente correcta</option>
+		<option>A fonsi le atrae Daddy Yankee</option>
+		<answer>0</answer> 
+	</question>		 
+	<question>
+		<type>multiple</type>
+		<title>¿Cómo brilla una estrella?</title>
+		<option>Por combustión</option>
+		<option>Por reacciones químicas</option> 
+		<option>Reacciones termonucleares</option> 
+		<option>Porque el calor está para calentarla</option>
+		<answer>1</answer>
+		<answer>2</answer>
+		<answer>3</answer>
+	</question>
+	<question>
+		<type>multiple</type>
+		<title>¿Qué distancia hay entre la tierra y el sol en minutos luz?</title>
+		<option>8,31 minutos luz</option>
+		<option>498,6000000000000227 luz </option> 
+		<option>1 minuto</option> 
+		<option>0,1385hra/luz</option>
+		<answer>0</answer>
+		<answer>1</answer>
+		<answer>2</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>9 si duplico la velocidad de un coche. ¿qué pasa con la energía?</title>
+		<option>Es una ecuación cuadrática</option>
+		<option>Es el doble</option> 
+		<option>Te pide más gasolina</option> 
+		<option>Es 4 veces más (es una relación cuadrática</option>
+		<answer>0</answer>
+		<answer>3</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>¿Qué pasa si estás en un ascensor y se corta el cable?</title>
+		<option>Caes con los pies en el suelo</option>
+		<option>Caes flotando (por estar en un estado de
+                ingravidez)</option> 
+		<option>Te vas hacia el techo</option> 
+		<option>Te salva un águila de Gandalf</option>
+		<answer>1</answer>
+		<answer>2</answer>
+	</question>
+	<question >
+		<type>radio</type>
+		<title>6Según la frase “La temperatura está para calentarte” define: El calor</title>
+            
+		<option>Transferencia de energía entre dos cuerpos a diferente Temperatura</option>
+		<option>Fluido(flogisto) que va de los cuerpos calientes a los cuerpos fríos</option> 
+		<option>Fluye del cuerpo de alta temperatura al de baja. (Frío inverso)</option> 
+		<option>El calor derritió el cerebro de Bad Bunny</option>
+		<answer>1</answer>
+	</question>
+	<question>
+		<type>radio</type>
+		<title>7 (la tierra es un geoide)¿Qué gira más rápido estando en la tierra?</title>
+		<option>Un tipo del Polo Norte</option>
+		<option>Un tipo que está en el Ecuador</option> 
+		<option>un tipo en la órbita geoestacionaria</option> 
+		<option>todos a la misma velocidad</option>
+		<answer>1</answer>		  
+	</question>		 
+</questions>	
